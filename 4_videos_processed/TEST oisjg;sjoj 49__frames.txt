@@ -1,3 +1,0 @@
-file '../3_frames_upscaled/TEST oisjg;sjoj 49__frame_0001-art-scale-2_00x.png'
-file '../3_frames_upscaled/TEST oisjg;sjoj 49__frame_0002-art-scale-2_00x.png'
-file '../3_frames_upscaled/TEST oisjg;sjoj 49__frame_0003-art-scale-2_00x.png'
