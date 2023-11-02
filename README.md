@@ -17,7 +17,7 @@ Follow these steps to use VideoFrameTransformer:
 1. Place your original 4K videos in the `1_videos_original` folder.
 2. Run the `video_frames_extractor.py` script to extract frames from the videos into `2_frames_extracted`.
 3. Process the extracted frames using an app of your choice (e.g., Gigapixel AI), and save upscaled frames in to `3_frames_upscaled`.
-4. Use the `video_assembler_from_frames.py` script to reassemble the processed frames into an upscaled video.
+4. Use the `video_assembler_from_frames.py` script to reassemble the processed frames into an upscaled video in `4_videos_processed`.
 
 ## Contributing
 Contributions to the Video Frame Transformer are welcome. If you have a suggestion that would make this better, please fork the repo and create a pull request.
