@@ -14,9 +14,9 @@ brew install ffmpeg
 ## Usage
 Follow these steps to use VideoFrameTransformer:
 
-1. Place your original 4K videos in `the 1_videos_original` folder.
-2. Run the video_frames_extractor.py script to extract frames from the videos.
-3. Process the extracted frames using an app of your choice (e.g., Gigapixel AI). Refer to the app’s documentation for specific instructions.
+1. Place your original 4K videos in the `1_videos_original` folder.
+2. Run the `video_frames_extractor.py` script to extract frames from the videos into `2_frames_extracted`.
+3. Process the extracted frames using an app of your choice (e.g., Gigapixel AI), and save upscaled frames in to `3_frames_upscaled`.
 4. Use the `video_assembler_from_frames.py` script to reassemble the processed frames into an upscaled video.
 
 ## Contributing
