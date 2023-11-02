@@ -16,7 +16,7 @@ brew install ffmpeg
 ## 使用方法
 按照以下步驟使用VideoFrameTransformer：
 
-1. 將您的原始4K影片放置在 `1_videos_original` 文件夾中。
+1. 將您的原始影片放置在 `1_videos_original` 文件夾中。
 2. 運行 `video_frames_extractor.py` 腳本，從影片中提取幀到 `2_frames_extracted`。
 3. 使用您選擇的應用程式（例如Gigapixel AI）處理提取的幀，並將放大的幀保存到 `3_frames_upscaled`。
 4. 使用 `video_assembler_from_frames.py` 腳本將處理過的幀重新組裝成放大的影片，保存在 `4_videos_processed`。
@@ -29,3 +29,5 @@ brew install ffmpeg
 
 ## 聯繫
 如果您想聯繫我，可以通過 `fattie@fattie.io` 找到我。
+
+[回到主頁](./README.md)
