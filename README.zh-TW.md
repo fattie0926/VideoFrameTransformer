@@ -2,6 +2,8 @@
 
 [English](README.md) | [繁體中文](README.zh-TW.md)
 
+![demo gif](https://github.com/fattie0926/VideoFrameTransformer/assets/77534161/e93efa3b-fdba-426e-a89c-0c46ac2474a0)
+
 ## 概覽
 VideoFrameTransformer 是一個工具組，幫助用戶將影片轉換為圖片，然後再新組合成影片。雖然它不直接進行圖像放大，但它通過拆解後的圖片以通過其他軟件（如Gigapixel AI）進行放大，然後將它們重新組裝成高解析度的影片。這個工具依賴於FFmpeg來處理影片幀的提取和重組。
 
