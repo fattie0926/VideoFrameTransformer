@@ -2,6 +2,8 @@
 
 [English](README.md) | [繁體中文](README.zh-TW.md)
 
+![demo gif](https://github.com/fattie0926/VideoFrameTransformer/assets/77534161/f42a4dd1-7602-4805-b17f-0246805ae75f)
+
 ## Overview
 VideoFrameTransformer is a toolchain that assists in the conversion of video to frames and back to video format. While it does not directly upscale images, it facilitates the process by preparing frames for upscaling through other software (like Gigapixel AI) and then reassembling them into a high-resolution video. This utility relies on FFmpeg to handle video frame extraction and reassembly.
 
